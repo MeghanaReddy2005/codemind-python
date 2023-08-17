@@ -1,3 +1,3 @@
-x,a,b=map(int,input().split())
-c=3*x-a-b
-print(f"{c}")
+a,b1,b2=map(int,input().split())
+c=3*a-b1-b2
+print(F"{c}")
